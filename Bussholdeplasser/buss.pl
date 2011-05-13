@@ -28,4 +28,4 @@ foreach (@stuff) {
 }
 print FILE "</osm>";
 close FILE;
-print "Antall holdeplasser: " . @stuff;
+print "Antall holdeplasser: " . @stuff . "\n\n";
