@@ -4,7 +4,6 @@ use strict;
 use utf8;
 
 use JSON;
-use Data::Dumper;
 
 my $file;
 my $content;
